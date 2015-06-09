@@ -1,0 +1,11 @@
+{
+    "name": "dominik/composer-test",
+    "authors": [
+        {
+            "name": "Dominik Tobschall",
+            "email": "dtobschall@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
